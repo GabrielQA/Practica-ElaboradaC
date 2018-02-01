@@ -213,6 +213,7 @@ namespace WindowsFormsApplication2
 
         private void BTM(object sender, EventArgs e)
         {
+            //commit
            pictureBox1.ImageLocation = "C:/Users/gabri/Pictures";
         }
     }
